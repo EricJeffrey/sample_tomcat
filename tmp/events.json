@@ -1,0 +1,383 @@
+{
+    "type": "stats",
+    "id": "halo",
+    "data": {
+        "cpu": {
+            "usage": {
+                "total": 7961893275,
+                "percpu": [
+                    7961893275,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "kernel": 4900000000,
+                "user": 3500000000
+            },
+            "throttling": {}
+        },
+        "memory": {
+            "cache": 279924736,
+            "usage": {
+                "limit": 9223372036854771712,
+                "usage": 358600704,
+                "max": 361648128,
+                "failcnt": 0
+            },
+            "swap": {
+                "limit": 0,
+                "failcnt": 0
+            },
+            "kernel": {
+                "limit": 9223372036854771712,
+                "usage": 5681152,
+                "max": 5681152,
+                "failcnt": 0
+            },
+            "kernelTCP": {
+                "limit": 9223372036854771712,
+                "failcnt": 0
+            },
+            "raw": {
+                "active_anon": 72994816,
+                "active_file": 19378176,
+                "cache": 279924736,
+                "dirty": 32768,
+                "hierarchical_memory_limit": 9223372036854771712,
+                "inactive_anon": 0,
+                "inactive_file": 260546560,
+                "mapped_file": 18575360,
+                "pgfault": 115698,
+                "pgmajfault": 97,
+                "pgpgin": 116035,
+                "pgpgout": 29873,
+                "rss": 72994816,
+                "rss_huge": 0,
+                "shmem": 0,
+                "total_active_anon": 72994816,
+                "total_active_file": 19378176,
+                "total_cache": 279924736,
+                "total_dirty": 32768,
+                "total_inactive_anon": 0,
+                "total_inactive_file": 260546560,
+                "total_mapped_file": 18575360,
+                "total_pgfault": 115698,
+                "total_pgmajfault": 97,
+                "total_pgpgin": 116035,
+                "total_pgpgout": 29873,
+                "total_rss": 72994816,
+                "total_rss_huge": 0,
+                "total_shmem": 0,
+                "total_unevictable": 0,
+                "total_writeback": 0,
+                "unevictable": 0,
+                "writeback": 0
+            }
+        },
+        "pids": {
+            "current": 44
+        },
+        "blkio": {
+            "ioServiceBytesRecursive": [
+                {
+                    "major": 8,
+                    "op": "Read",
+                    "value": 7573504
+                },
+                {
+                    "major": 8,
+                    "op": "Write",
+                    "value": 1564672
+                },
+                {
+                    "major": 8,
+                    "op": "Sync",
+                    "value": 7573504
+                },
+                {
+                    "major": 8,
+                    "op": "Async",
+                    "value": 1564672
+                },
+                {
+                    "major": 8,
+                    "op": "Total",
+                    "value": 9138176
+                }
+            ],
+            "ioServicedRecursive": [
+                {
+                    "major": 8,
+                    "op": "Read",
+                    "value": 336
+                },
+                {
+                    "major": 8,
+                    "op": "Write",
+                    "value": 8
+                },
+                {
+                    "major": 8,
+                    "op": "Sync",
+                    "value": 336
+                },
+                {
+                    "major": 8,
+                    "op": "Async",
+                    "value": 8
+                },
+                {
+                    "major": 8,
+                    "op": "Total",
+                    "value": 344
+                }
+            ],
+            "ioQueueRecursive": [
+                {
+                    "major": 8,
+                    "op": "Read"
+                },
+                {
+                    "major": 8,
+                    "op": "Write"
+                },
+                {
+                    "major": 8,
+                    "op": "Sync"
+                },
+                {
+                    "major": 8,
+                    "op": "Async"
+                },
+                {
+                    "major": 8,
+                    "op": "Total"
+                }
+            ],
+            "ioServiceTimeRecursive": [
+                {
+                    "major": 8,
+                    "op": "Read",
+                    "value": 86907780
+                },
+                {
+                    "major": 8,
+                    "op": "Write",
+                    "value": 2853245
+                },
+                {
+                    "major": 8,
+                    "op": "Sync",
+                    "value": 86907780
+                },
+                {
+                    "major": 8,
+                    "op": "Async",
+                    "value": 2853245
+                },
+                {
+                    "major": 8,
+                    "op": "Total",
+                    "value": 89761025
+                }
+            ],
+            "ioWaitTimeRecursive": [
+                {
+                    "major": 8,
+                    "op": "Read",
+                    "value": 16908059
+                },
+                {
+                    "major": 8,
+                    "op": "Write",
+                    "value": 29649051
+                },
+                {
+                    "major": 8,
+                    "op": "Sync",
+                    "value": 16908059
+                },
+                {
+                    "major": 8,
+                    "op": "Async",
+                    "value": 29649051
+                },
+                {
+                    "major": 8,
+                    "op": "Total",
+                    "value": 46557110
+                }
+            ],
+            "ioMergedRecursive": [
+                {
+                    "major": 8,
+                    "op": "Read"
+                },
+                {
+                    "major": 8,
+                    "op": "Write",
+                    "value": 1
+                },
+                {
+                    "major": 8,
+                    "op": "Sync"
+                },
+                {
+                    "major": 8,
+                    "op": "Async",
+                    "value": 1
+                },
+                {
+                    "major": 8,
+                    "op": "Total",
+                    "value": 1
+                }
+            ],
+            "ioTimeRecursive": [
+                {
+                    "major": 8,
+                    "value": 1312374424
+                }
+            ],
+            "sectorsRecursive": [
+                {
+                    "major": 8,
+                    "value": 17848
+                }
+            ]
+        },
+        "hugetlb": {
+            "1GB": {
+                "failcnt": 0
+            },
+            "2MB": {
+                "failcnt": 0
+            }
+        },
+        "intel_rdt": {}
+    }
+}

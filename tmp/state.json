@@ -1,0 +1,7 @@
+{
+    "ociVersion": "1.0.1-dev",
+    "id": "helo",
+    "status": "creating",
+    "pid": 4112,
+    "bundle": "/home/eric/images/sample_tomcat/alpine-bundle"
+}
