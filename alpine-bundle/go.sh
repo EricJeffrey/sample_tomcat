@@ -1,4 +1,14 @@
-printf 'this operation will copy init.sh to rootfs/, continue?'
+printf 'build prestart.cpp ? (y/n)'
 read a
-sudo cp init.sh rootfs/
+if [[ $a == 'y' ||  $a == 'Y' || $a == '' ]]
+then
+    g++ -Wall -o prestart.out hooks/prestart.cpp
+fi
+printf 'copy init.sh to rootfs/ ? (y/n)'
+read a
+if [[ $a == 'y' ||  $a == 'Y' || $a == '' ]]
+then
+    sudo cp init.sh rootfs/
+fi
+echo 'starting <helo>'
 sudo runc run helo

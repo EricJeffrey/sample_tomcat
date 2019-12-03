@@ -1,0 +1,276 @@
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.83MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.34%               66.84MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.34%               66.84MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.84MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.84MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.37%               66.84MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.37%               66.84MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.20%               66.84MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.20%               66.84MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.83%               66.86MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.83%               66.86MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               66.86MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               66.86MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               66.86MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               66.86MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.18%               66.87MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.18%               66.87MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               66.87MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               66.87MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.16%               66.88MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.16%               66.88MiB / 1.924GiB   3.39%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         1.06%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         1.06%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.09%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.09%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.13%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.13%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.08%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.08%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.14%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.14%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.25%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.25%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.25%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.16%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.16%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.09%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.09%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.23%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.23%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.92MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.55%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.55%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.14%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.14%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.16%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.16%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.19%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.19%               66.93MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.55%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.55%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.13%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.13%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.20%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.20%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               66.95MiB / 1.924GiB   3.40%               1.28kB / 300B       0B / 0B             41
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         62.24%              99.03MiB / 1.924GiB   5.03%               96.8kB / 14.6kB     0B / 0B             133
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         62.24%              99.03MiB / 1.924GiB   5.03%               96.8kB / 14.6kB     0B / 0B             133
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         89.19%              156.2MiB / 1.924GiB   7.93%               426kB / 140kB       0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         89.19%              156.2MiB / 1.924GiB   7.93%               426kB / 140kB       0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         93.50%              193.3MiB / 1.924GiB   9.81%               432kB / 468kB       0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         93.50%              193.3MiB / 1.924GiB   9.81%               432kB / 468kB       0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         83.22%              193.6MiB / 1.924GiB   9.82%               581kB / 6.09MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         83.22%              193.6MiB / 1.924GiB   9.82%               581kB / 6.09MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         65.54%              198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         65.54%              198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.16%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.16%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.12%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               198.1MiB / 1.924GiB   10.05%              771kB / 11.9MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         8.51%               198.2MiB / 1.924GiB   10.06%              921kB / 12.4MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         8.51%               198.2MiB / 1.924GiB   10.06%              921kB / 12.4MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         8.51%               198.2MiB / 1.924GiB   10.06%              921kB / 12.4MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         64.28%              198.9MiB / 1.924GiB   10.09%              1.35MB / 20.4MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         64.28%              198.9MiB / 1.924GiB   10.09%              1.35MB / 20.4MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         62.46%              202.3MiB / 1.924GiB   10.27%              1.83MB / 29.1MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         62.46%              202.3MiB / 1.924GiB   10.27%              1.83MB / 29.1MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         62.32%              202.9MiB / 1.924GiB   10.30%              2.35MB / 37.1MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         62.32%              202.9MiB / 1.924GiB   10.30%              2.35MB / 37.1MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         61.53%              203.2MiB / 1.924GiB   10.31%              2.82MB / 45.2MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         61.53%              203.2MiB / 1.924GiB   10.31%              2.82MB / 45.2MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         59.89%              209.1MiB / 1.924GiB   10.61%              3.22MB / 55.2MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         59.89%              209.1MiB / 1.924GiB   10.61%              3.22MB / 55.2MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         61.76%              211.9MiB / 1.924GiB   10.75%              3.7MB / 64.7MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         61.76%              211.9MiB / 1.924GiB   10.75%              3.7MB / 64.7MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         59.35%              211.5MiB / 1.924GiB   10.73%              4.18MB / 74.8MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         59.35%              211.5MiB / 1.924GiB   10.73%              4.18MB / 74.8MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         61.23%              211.7MiB / 1.924GiB   10.74%              4.69MB / 84.7MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         61.23%              211.7MiB / 1.924GiB   10.74%              4.69MB / 84.7MB     0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         57.04%              212MiB / 1.924GiB   10.76%              5.2MB / 93.5MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         57.04%              212MiB / 1.924GiB   10.76%              5.2MB / 93.5MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         70.98%              217.4MiB / 1.924GiB   11.03%              5.53MB / 104MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         70.98%              217.4MiB / 1.924GiB   11.03%              5.53MB / 104MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         68.47%              217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         68.47%              217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         1.44%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         1.44%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.13%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.13%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.10%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.18%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.18%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+5c9ed69a6f61        halo-tomcat         0.11%               217.4MiB / 1.924GiB   11.03%              5.59MB / 106MB      0B / 0B             231

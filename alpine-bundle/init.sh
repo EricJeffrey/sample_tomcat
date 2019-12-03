@@ -16,8 +16,8 @@ echo 'jdk installed, starting tomcat-9.0.29'
 ./tomcat-9.0.29/bin/startup.sh
 /bin/ash
 echo 'stopping'
-apk del openjdk11
-echo 'jdk uninstalled'
+# apk del openjdk11
+# echo 'jdk uninstalled'
 route del default gw 10.1.1.1
 ip link del veth985
 echo 'bye'
