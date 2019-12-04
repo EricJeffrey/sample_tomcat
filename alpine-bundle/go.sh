@@ -1,3 +1,4 @@
+name=halo
 printf 'build prestart.cpp ? (y/n)'
 read a
 if [[ $a == 'y' ||  $a == 'Y' || $a == '' ]]
@@ -10,5 +11,12 @@ if [[ $a == 'y' ||  $a == 'Y' || $a == '' ]]
 then
     sudo cp init.sh rootfs/
 fi
-echo 'starting <helo>'
-sudo runc run helo
+echo "starting <${name}>"
+printf 'start with crun? (y/n)'
+read a
+if [[ $a == 'y' ||  $a == 'Y' || $a == '' ]]
+then
+    sudo ./crun run $name
+else
+    sudo runc run $name
+fi

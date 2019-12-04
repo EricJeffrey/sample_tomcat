@@ -21,7 +21,11 @@ int main(int argc, char const *argv[]) {
 
     // write state
     string container_state;
-    cin >> container_state;
+    while (!cin.eof()) {
+        string tmp;
+        cin >> tmp;
+        container_state += tmp;
+    }
     fprintf(fp_log, "%s\n", container_state.c_str());
     fclose(fp_log);
     // read pid

@@ -1,4 +1,5 @@
 # setup network and start /bin/ash
+ifconfig lo up
 ifconfig veth985 up
 ifconfig veth985 10.1.1.2
 ifconfig veth985 netmask 255.255.255.0
